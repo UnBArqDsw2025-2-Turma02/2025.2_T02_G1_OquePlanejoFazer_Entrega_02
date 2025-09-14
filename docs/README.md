@@ -90,3 +90,8 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+## Histórico de Versões
+| Versão | Alteração | Responsável | Data | Revisor |  Detalhes da Revisão | Data da Revisão |
+|--------|-----------|-------------|------|---------|----------------------|-----------------|
+| X.X | --- | [SEU NOME](https://github.com/SEUGITHUB) | XX/XX/XX | [SEU NOME](https://github.com/SEUGITHUB) | ---  | XX/XX/XX |
