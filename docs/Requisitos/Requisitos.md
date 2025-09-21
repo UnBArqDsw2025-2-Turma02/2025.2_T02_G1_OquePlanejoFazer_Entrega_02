@@ -62,4 +62,4 @@ Este documento define os requisitos funcionais e não funcionais do sistema de g
 
 | Versão | Alteração | Responsável                              | Data     | Revisor                                  | Detalhes da Revisão | Data da Revisão |
 | ------ | --------- | ---------------------------------------- | -------- | ---------------------------------------- | ------------------- | --------------- |
-| X.X    | ---       | [SEU NOME](https://github.com/SEUGITHUB) | XX/XX/XX | [SEU NOME](https://github.com/SEUGITHUB) | ---                 | XX/XX/XX        |
+| 1.0    | Adicionando requisitos       | [Matheus Vinicius](https://github.com/matix0) | 19/09/2025 | [Yasmim Rosa](https://github.com/yaskisoba) | Requisitos formalizados de maneira coerente com o modelo SAFe, sem alterações a serem realizadas.                 | 21/09/2025        |
