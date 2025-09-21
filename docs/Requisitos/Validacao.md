@@ -1,2 +1,0 @@
-## Validação dos Requisitos
-
