@@ -19,4 +19,8 @@
       - [2.3.2. Diagrama de Casos de Uso](Modelagem/2.3.2.DiagramaCasosDeUso.md)
     - [**2.4. Participações - Modelagem**](Modelagem/2.4.ParticipacoesModelagem.md)
     - [**2.5. Iniciativas Extras - Modelagem**](Modelagem/2.5.IniciativasExtras.md)
-      - [2.5.1. Declaração de Requisitos](Modelagem/2.5.1.DeclaracaoRequisitos.md)
+      - [2.5.1. Elicitação de Requisitos](Modelagem/2.5.1.ElicitacaoRequisitos.md)
+      - [2.5.2. Declaração de Requisitos](Modelagem/2.5.2.DeclaracaoRequisitos.md)
+      - [2.5.3. Validação de Requisitos](Modelagem/2.5.3.ValidacaoRequisitos.md)
+
+- [Requisitos](Requisitos/Requisitos.md)
