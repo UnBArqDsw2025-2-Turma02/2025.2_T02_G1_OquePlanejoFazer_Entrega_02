@@ -22,5 +22,3 @@
       - [2.5.1. Elicitação de Requisitos](Modelagem/2.5.1.ElicitacaoRequisitos.md)
       - [2.5.2. Declaração de Requisitos](Modelagem/2.5.2.DeclaracaoRequisitos.md)
       - [2.5.3. Validação de Requisitos](Modelagem/2.5.3.ValidacaoRequisitos.md)
-
-- [Requisitos](Requisitos/Requisitos.md)
